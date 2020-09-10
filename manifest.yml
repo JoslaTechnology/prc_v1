@@ -1,0 +1,8 @@
+path: build/
+memory: 64M
+instances: 1
+domain: eu-gb.mybluemix.net
+disk_quota: 1024M
+name: prc-v1
+host: prc-v1
+buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
